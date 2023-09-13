@@ -1,8 +1,5 @@
 \version "2.24.1"
 
-#(ly:set-option 'crop #t)
-#(ly:set-option 'resolution 300)
-
 % G Dorian
 
 gDorian = #'(
@@ -39,7 +36,7 @@ gMinPen = #'(
         (place-fret 4 3 "m7")
         (place-fret 4 5 "1" red)
 
-        (place-fret 3 2 "" white) % not a note. Inserted a white dot here to align with Dorian	
+        (place-fret 3 2 "" white)
         (place-fret 3 3 "m3")
         (place-fret 3 5 "4")
     
