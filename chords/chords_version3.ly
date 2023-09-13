@@ -1,4 +1,8 @@
 \version "2.24.1"
+
+#(ly:set-option 'crop #t)
+#(ly:set-option 'resolution 300)
+
 % G/B
 chordA = #'(
     (mute 6)
