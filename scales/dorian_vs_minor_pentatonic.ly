@@ -62,5 +62,5 @@ gMinPen = #'(
 
 \markup {
   \my-scale "G Dorian" \gDorian
-  \my-scale "G Minor Penatonic" \gMinPen  
+  \my-scale "G Minor Pentatonic" \gMinPen  
 }
