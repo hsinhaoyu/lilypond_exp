@@ -13,7 +13,7 @@
   %%%%%%%%%% scales
   This piece is in G Dorian. It is similar to the G minor penatonic scale, except that it has two additional notes: a 2nd and a 6th.\\
 
-  \lilypondfile[quote,noindent]{../scales/dorian_vs_minor_penatonic.ly}
+  \lilypondfile[quote,noindent]{../scales/dorian_vs_minor_pentatonic.ly}
 
   %%%%%%%%%% Chords
   Some chords:\\%
